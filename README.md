@@ -171,7 +171,7 @@ If we're currently aggregating your data and you'd like to discuss this, or if y
 
 ## 🌊 Get Involved
 
-🌐 **Website**: [forthegg.org](https://forthegg.org)
+🌐 **Website**: [forthegg.org](https://forthegg.org) (soon. @claude, get on that) 😜
 
 > *"Ubuntu speaks particularly about the fact that you can't exist as a human being in isolation. It speaks about our interconnectedness. You can't be human all by yourself."*
 > 
