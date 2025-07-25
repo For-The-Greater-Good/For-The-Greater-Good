@@ -125,19 +125,6 @@ We welcome contributions from developers, designers, and anyone passionate about
 
 ---
 
-## 📜 Important Disclaimers
-
-
-### 🏴‍☠️ Terms of Service Compliance Notice
-
-This software intentionally bypasses certain Terms of Service restrictions that we believe harm public good. Specifically:
-
-- We aggregate data through automated means (scraping, API access, proxied searches)
-- We cache and republish public information for accessibility
-- We create unified interfaces for siloed systems
-
-While we maintain attribution and respect the original sources of information, we prioritize public good over Terms of Service that create artificial barriers to public resource information.
-
 ### 📊 Data Usage
 
 - ✅ We only aggregate publicly available information
